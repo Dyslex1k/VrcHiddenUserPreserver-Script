@@ -1,4 +1,4 @@
-# VrcHiddenUserPreseve-Script
+# VrcHiddenUserPreserver-Script
 A script that clears your User Show/Hide data and preserves all the hidden users!
 Feel free to edit the code to your liking!!!
 
